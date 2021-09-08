@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="271.1px" height="308.6px" viewBox="0 0 271.1 308.6" style="enable-background:new 0 0 271.1 308.6;" xml:space="preserve"
+	>
+<style type="text/css">
+	.st0{clip-path:url(#Clipping_1_);fill:#FFFFFF;}
+	.st1{clip-path:url(#Clipping_1_);fill:#2E3192;}
+	.st2{clip-path:url(#Clipping_1_);fill:#ED1C24;}
+	.st3{clip-path:url(#Clipping_1_);fill:none;stroke:#FFFFFF;stroke-width:4.2;stroke-miterlimit:10;}
+	.st4{clip-path:url(#Clipping_1_);fill:none;stroke:#FFFFFF;stroke-width:4.2;}
+	.st5{clip-path:url(#Clipping_1_);fill:#BCBEC0;}
+	.st6{clip-path:url(#Clipping_1_);fill:#7BD3F7;}
+	.st7{clip-path:url(#Clipping_1_);fill:#90A7D6;}
+</style>
+<g id="Art_2_">
+	<defs>
+		<rect id="Clipping" x="40" y="40.2" width="191" height="228.2"/>
+	</defs>
+	<clipPath id="Clipping_1_">
+		<use xlink:href="#Clipping"  style="overflow:visible;"/>
+	</clipPath>
+	<polygon id="White_border_1_" class="st0" points="236.4,273.7 34.7,273.7 34.7,34.9 236.4,34.9 	"/>
+	<rect id="Blue_background_3_" x="40" y="40.2" class="st1" width="191" height="228.2"/>
+	<path id="White_arc_1_" class="st0" d="M232.1,176.8c-15.2,7.9-32.4,12.4-50.6,12.4c-61.5,0-111.3-50.6-111.3-112.9
+		c0-13,2.2-25.5,6.2-37.1c51.4,0,155.8,0,155.8,0C232.1,55.8,232.1,176.8,232.1,176.8z"/>
+	<path id="Red_circle_1_" class="st2" d="M231.1,109.1c-7.6,4-16.2,6.2-25.3,6.2c-30.7,0-55.6-25.3-55.6-56.5
+		c0-6.5,1.1-12.8,3.1-18.6c25.7,0,77.9,0,77.9,0C231.1,48.5,231.1,109.1,231.1,109.1z"/>
+	<path id="Orbit_1_1_" class="st3" d="M37.5,170.4c26.8,60.7,87.3,81.8,157,81.8c12.6,0,29.6-1.4,39.3-4"/>
+	<path id="Orbit_2_1_" class="st4" d="M37.4,84.9c0,96,84.6,173.2,179.2,173.2c5,0,10.9-0.3,15.8-0.7"/>
+	<path id="Planet_1_1_" class="st5" d="M51.4,160.4c4.7,0,8.6-3.9,8.6-8.7c0-4.8-3.8-8.7-8.6-8.7c-4.7,0-8.6,3.9-8.6,8.7
+		C42.8,156.5,46.6,160.4,51.4,160.4z"/>
+	<path id="Planet_2_1_" class="st6" d="M214.9,258c4.3,0,7.8-3.6,7.8-8c0-4.4-3.5-8-7.8-8c-4.3,0-7.8,3.6-7.8,8
+		C207,254.5,210.6,258,214.9,258z"/>
+	<path id="Planet_3_1_" class="st7" d="M56.9,220.4c0-11.8,9.4-21.3,21-21.3c11.6,0,21,9.5,21,21.3c0,11.8-9.4,21.3-21,21.3
+		C66.3,241.7,56.9,232.2,56.9,220.4z"/>
+</g>
+</svg>

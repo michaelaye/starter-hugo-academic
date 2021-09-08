@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: minimal
+theme: ocean
 day_night: true
-font: ''
+font: 'native'
 font_size: L
 
 # SEO
@@ -20,40 +20,28 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+# email: test@example.org
+# phone: 888 888 88 88
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 1234 Discovery Drive
+  city: Boulder
+  region: CO
+  postcode: '80303'
   country: United States
   country_code: US
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  latitude: '40.012283909589094'
+  longitude: '-105.2457741959496'
+# directions: Enter Building and take the stairs to Office 252 on Floor 2
+# office_hours:
+  # - 'Monday 10:00 to 13:00'
+  # - 'Wednesday 09:00 to 10:00'
+appointment_url: 'https://calendly.com/michael-aye'
 contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    link: 'https://twitter.com/michaelaye'
 
 # Site header
 
@@ -68,8 +56,8 @@ main_menu:
 
 # Localization
 
-date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
+date_format: 'Monday, 02 Jan 2006'
+#time_format: '15:04 MT'
 address_format: en-us
 
 # Site features
@@ -77,17 +65,20 @@ address_format: en-us
 highlight: true
 highlight_languages:
   - r
-math: false
-diagram: false
+  - python
+  - c
+  - c++
+math: true
+diagram: true
 privacy_pack: false
 edit_page:
-  repo_url: ''
-  content_dir: ''
+  repo_url: 'git@github.com:michaelaye/starter-hugo-academic.git'
+  content_dir: 'public'
   repo_branch: main
   editable:
-    page: false
-    post: false
-    book: false
+    page: true
+    post: true
+    book: true
 show_related:
   book: true
   page: false
@@ -100,19 +91,21 @@ section_pager: false
 docs_section_pager: true
 sharing: true
 copyright_license:
-  enable: false
-  allow_derivatives: false
+  enable: true
+  allow_derivatives: true
   share_alike: true
   allow_commercial: false
   notice: 'This work is licensed under {license}'
 abstract_length: 135
 plugins_js: []
 avatar:
-  gravatar: false
+  gravatar: true
   shape: circle
 publications:
   date_format: January 2006
   citation_style: apa
+events:
+  date_format: 2 January 2006
 projects:
   post_view: 2
   publication_view: 2
@@ -141,7 +134,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
+  provider: 'mapnik'
   api_key: ''
   zoom: 15
 marketing:

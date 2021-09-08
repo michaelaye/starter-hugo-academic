@@ -10,6 +10,6 @@ view: 2
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ""
-  image: ""
+  caption: "Lunar and Planetary Science Conference"
+  image: "IMG_0444.jpeg"
 ---

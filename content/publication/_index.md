@@ -11,6 +11,6 @@ view: 4
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ""
-  image: ""
+  caption: "Photo by Tamás Mészáros from Pexels"
+  image: "library_small.jpg"
 ---
